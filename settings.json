@@ -23,7 +23,7 @@
       "password": "SoloPlayz"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 10000,
       "speed": 3000
     },
     "look-around": {
